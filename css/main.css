@@ -41,3 +41,21 @@ header img{
     opacity: 0.75;
     border-radius: 12px 12px 12px 12px;
 }
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: #04AA60;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.text{
+    padding-left: 2em;
+    padding-right: 2em;
+}
